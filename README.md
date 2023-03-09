@@ -1,4 +1,4 @@
-This code appears to be a machine learning model that trains and evaluates three different models (Random Forest, AutoKeras and Support Vector Machines) on a dataset. The goal is to find the model that performs the best on predicting the "Gross weight (kg)" target variable.
+a machine learning model that trains and evaluates three different models (Random Forest, AutoKeras and Support Vector Machines) on a dataset. The goal is to find the model that performs the best on predicting the "Gross weight (kg)" target variable.
 
 First, the code imports necessary libraries, such as pandas for data handling, sklearn for model training and evaluation, and numpy for numerical calculations. Then, it loads the dataset into a Pandas dataframe and removes any rows containing null values.
 
